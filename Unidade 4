@@ -10,6 +10,22 @@
   <input type="text" id="email" name="email" value=" "><br><br>
   <label for="cpf">cpf:</label><br>
   <input type="number" id="cpf" name="cpf" value=" "><br>
+  <label for="rg">rg:</label><br>
+  <input type="number" id="rg" name="rg" value=" "><br>
+  <label for="dnascimento"> data de nascimento:</label><br>
+  <input type="number" id="dnascimento" name="dnascimento" value=" "><br>
+  <label for="rua"> rua:</label><br>
+  <input type="text" id="rua" name="rua" value=" "><br>
+  <label for="numero"> numero: </label><br>
+  <input type="number" id="numero" name="numero" value=" "><br>
+  <label for="bairro"> bairro:</label><br>
+  <input type="text" id="bairro" name="bairro" value=" "><br>
+  <label for="cidade"> cidade:</label><br>
+  <input type="text" id="cidade" name="cidade" value=" "><br>
+  <label for="sexo"> sexo:</label><br>
+  <input type="text" id="sexo" name="sexo" value=" "><br>
+  <label for="raca"> raca:</label><br>
+  <input type="text" id="raca" name="raca" value=" "><br>
 
 
   <input type="submit" value="Submit">
