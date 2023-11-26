@@ -1,1 +1,74 @@
+<html>
+<head>
+<style>
+p {
+  font-family: Tahoma, Verdana, sans-serif;
+  font-size: 40px;
+  color: red;
+}
+
+div {
+  border: 10px solid black;
+  margin: 10px 10px 10px 10px;
+}
+</style>
+</head>
+<body>
+
+<div>
+<p>
+Com cerca de 4 centímetros de diâmetro, o óvulo da galinha é o maior do reino animal. 
+A gema é liberada do ovário e depois “viaja” por uma série de órgãos internos da penosa até chegar ao útero, 
+local onde o processo de formação do ovo termina com a solidificação da casca. 
+O tempo total para que ele fique pronto é de aproximadamente 24 horas. 
+“Cerca de 30 minutos após botar o ovo, a galinha ovula novamente. 
+</p>
+
+<p>
+O curioso é que, quando a galinha nasce, todos os óvulos que ela irá gerar ao longo da vida já estão armazenados no seu ovário, só que em tamanho microscópico.
+Apenas na idade adulta é que eles ficam prontos para ovulação. 
+Em um ano, uma galinha põe cerca de 265 ovos, 
+podendo manter essa produção durante os dois anos que tem de vida numa granja – 
+se for um galinha criada na roça, a vida dela pode se prolongar por 5 ou 6 anos.
+</p>
+</div>
+
+<div>
+<p>
+O desenvolvimento da cadeia avícola e o seu eficiente desempenho nas últimas décadas estão relacionados a vários fatores. 
+No entanto, esta cadeia é muito competitiva e possui uma margem estreita de lucro, além de ser vulnerável a
+condições sanitárias. Neste sentido, a configuração do panorama do cenário
+econômico da avicultura pode auxiliar a corroborar ou retificar as possíveis
+estratégias de inserção brasileira no mercado mundial.
+</p>
+
+<p>
+O objetivo do presente artigo foi descrever o fluxo do comércio internacional da carne de frango,
+considerando mudanças e perspectivas futuras para o Brasil, de modo a descrever o
+atual cenário econômico para este setor. Foram realizados levantamentos em bancos de dados de várias instituições envolvidas no agronegócio. 
+Os dados levantados revelam a estrutura de mercado oligopolista que esta cadeia encontra-se
+inserida, assim como, a evolução da produção, exportação, importação e consumo do frango de corte.  
+</p>
+</div>
+
+<div>
+<p>
+A produção de frangos de corte, atualmente, é considerada uma atividade
+econômica internacionalizada e uniforme, sem fronteiras geográficas de tecnologia.
+Podendo ser considerada um complexo industrial que não deve ser analisado
+apenas sob o aspecto de produção e distribuição, e sim por meio de uma
+abordagem sistêmica do setor.
+</p>
+
+<p>
+A avicultura brasileira destaca-se no mercado internacional de carnes. Ocupa desde 2011 a liderança na exportação de carne de frango e a terceira posição em
+produção mundial desse produto. De acordo com dados da União Brasileira de Avicultura – UBABEF (2013) em 2012, o Brasil foi o terceiro maior produtor mundial
+de carne de frango, produzindo um total de 12,6 milhões de toneladas de carne de frango, ficando atrás apenas dos EUA, 
+que possui uma produção de 16,5 milhões de toneladas, se destacando como o maior produtor mundial do produto, e a China com
+uma produção de 13,7 milhões de toneladas, segundo maior produtor.
+</p>
+</div>
+
+</body>
+</html>
 
